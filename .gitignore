@@ -1,0 +1,33 @@
+# Node dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-error.log
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Other
+.cache/
+.parcel-cache/
+.turbo/
